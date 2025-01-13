@@ -2,3 +2,4 @@
 Martin La Grange, January 2025
 
 ## The Gambler's Fallacy
+Blaise Pascal 
