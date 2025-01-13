@@ -17,9 +17,9 @@ Practically since the invention of the abacus, the computer has been seen as a t
 
 And, of course, there have been numerous instances of computers being used to actually win at gambling in casinos - which have either been successful or truly tragic in result. Needless to say much fiction and fact exists in this regard.
 
-Computers , of all types, have until very recently have had insufficient computational resources to even be seriously considered as tools to make somewhat useful forecasts of future events of this type - firstly, as the 'Universe' of data points has often been far larger than the physical memory of the machines, and the time needed for computation far longer than the machines could handle. While this sound exactly like the situation associated with breaking the Enigma codes in WWII, the important consideration not applicable in terms of event forecasting is that the Enigma intercepts _contained signal_, meaning that there was _something_ which could be extracted, and have meaning to interpret. 
+Computers , of all types, have until very recently have had insufficient computational resources to even be seriously considered as tools to make somewhat useful forecasts of future events of this type - firstly, as the 'Universe' of data points has often been far larger than the physical memory of the machines, and the time needed for computation far longer than the machines could handle. 
 
-With regard to games of chance, there is at first none - and this is complicated dramatically by human expectations running hard against fallacies to do with both probability and chance - and not emotionally understanding either, sadly.
+While this sounds exactly like the situation associated with breaking the Enigma codes in WWII, the important consideration not applicable in terms of event forecasting is that the Enigma intercepts _contained signal_, meaning that there was _something_ which could be extracted, and have meaning to interpret. With regard to games of chance, there is at first _none_ - and this is complicated dramatically by human expectations running hard against fallacies to do with both probability and chance - and not emotionally understanding either, sadly.
 
 ## The Gambler's Fallacies
 There are a considerable list of fallacies to do with gambling and forecasting 'the next event' that exist. Books have been written about them - many of them ! In all cases, the fallacy lies in the short-cut of the emotional mind triumphing over the logical rational mind - and, in fairness, money makes it worse - the desire for a natural need overrides the cool, logical consideration of the many fallacies which occur when considering whether a gambling system (aside from horse or dog racing, which has variables far beyond the consideration of simpler yet still very numerically complex mathematics). 
@@ -34,5 +34,23 @@ A perfectly weighted die has the <i>probability</i> of landing on a value of 1 t
 This fallacy is of course quickly proven - there is an almost absolute (better than 99.9%) probability that this will not take place - not matter one's feelings on the matter. Until the end of play for an evening at the gambling tables, the dice may end up in all sorts of combinations, returning _anywhere_ between 1 and 1 to 6 and 6 - and all combinations in between. Continue to bet on the basis that one 'feels the odds are going to change' is what leads to ruin - there is absolutely no proof, on experiment, to justify this belief.
 
 **The Retrospective Gamblers Fallacy**
-This relates to the Gamblers Fallacy in terms of the belief that 'Past Events allow the future to be forecast' and here we get to the modern point of view
+This relates to the Gamblers Fallacy in terms of the belief that 'Past Events allow the future to be forecast' and here we get to the modern point of view with regard to Neural Networks - the hope that their dispassionate mathematical structures may detect a pattern which the human mind cannot. Unfortunately, to date, there is no system with this capacity - or at least, there is no system able to avoid this fallacy _yet_
+
+## Emergent Neural Network forecasting - the Human Brain
+
+Even after being educated in both the sciences and mathematics, human beings often persist in purchasing Lottery Tickets on a given week. This behaviour seems irrational, until we take some aspects of this in mind, in respect of the Lottery games themselves, and their results per week:
+
+* Someone _always_ wins a big prize
+* Despite the fact that any combination of lottery balls is theoretically as good as another, people notice _patterns_
+  * These patterns are often repetitive for a single given ball, week to week - which while encouraging fallacy, is also an emergent property - _perhaps_.
+  * Observation over the centuries has given rise to the _hot, cold and middle warmth_ (or occurence rate) of a given set of balls.
+
+The pattern-recognition occurring in the Human mind needs to be given some consideration - the human brain consists of _billions of neurons_, with _trillions_ of axonal and dentritic connections. This remains far more complex than any computer or AI software system yet extant, including the AI systems in existence in 2025, the year of writing.
+
+While it is true that the human mind cannot realistically forecast the next Lottery draw, it is important to note that patterns are being recognised, and acted on. Given a large enough population, and the chances of winnig a large Lottery prize become less remote, given enough time.
+
+When the test system is discussed, we will return to that.
+
+## Emergent Neural Network forecasting - Artificial Neural Networks
+First programmed on smaller PC's in the 1990's when the 'Mega Threshold' was exceeded for the first time even for cheaper commercial personal computers (Units of measure - Megabyte, MegaHertz system clock, Megabit networking) , the **Artificial Neural Network** became an important 
 
