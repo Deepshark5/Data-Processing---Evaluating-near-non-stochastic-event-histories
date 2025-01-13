@@ -1,8 +1,8 @@
 # Data-Processing 1 - Heatmaps for forecasting evaluation
-# Or : Can Artificial Neural Networks forecast Lottery Draws ?
+## Or : Can Artificial Neural Networks forecast Lottery Draws ?
 Martin La Grange, January 2025
 
-**The attraction of lotteries**
+##The attraction of lotteries
 
 Lotteries have been in existence since the times of the Pharoahs and the Ancient Greeks, and have a very strong attraction - the potential for a big prize, for a small amount of money spent to be added to the pool won every week.
 Formats differ from country to country, and the manner in which the prize is paid also differs.
