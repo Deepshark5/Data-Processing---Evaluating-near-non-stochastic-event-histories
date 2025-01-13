@@ -1,4 +1,4 @@
-# Data-Processing 1 - Heatmaps for forecasting evaluation
+# Data-Processing - Near-random event sequences
 ## Or : Can Artificial Neural Networks forecast Lottery Draws ?
 Martin La Grange, January 2025
 
@@ -66,17 +66,23 @@ Today, a desktop PC has the capacity to perform numerical computations with soph
 We also have today the tools to evaluate whether a dataset is worth putting through an ANN, to save time in terms of committing resources to attempting to forecasting next steps.
 
 ## The Test System - the New Zealand National Lottery
-The NZ National Lottery is an almost ideal test system to distinguish a random from nearly-random system, for statistical evaluations by Statistical tools in Python, and Neural Networks
+The NZ National Lottery is an almost ideal test system to distinguish a random from nearly-random system, for statistical evaluations by Statistical tools in Python, and Neural Networks.
+If there are any residual patterns, a Neural Network has the best means of detecting them dispassionately and without an emotional content.
 
 Lotto New Zealand, formerly known as the New Zealand Lotteries Commission, is the entity responsible for operating the national lottery in New Zealand. It was established in 1987 and operates under the Gambling Act 2003. Here are some key points about the New Zealand National Lottery:
 
 * Establishment: The New Zealand National Lottery was established in 1987, replacing the original national lotteries, the Art Union and Golden Kiwi.
-* Games Offered: Lotto New Zealand offers several games including Lotto (which includes Powerball and Strike), Keno, Bullseye, and Instant Kiwi scratch card games.
+* Games Offered: Lotto New Zealand offers several games including **Lotto** (which includes **Powerball** and Strike), Keno, Bullseye, and Instant Kiwi scratch card games.
 * Regulation: The lottery is regulated by the New Zealand government through an autonomous Crown entity.
 * Profits Distribution: Profits from the lottery are distributed by the New Zealand Lottery Grants Board to charities and community organizations.
 * Online Availability: The New Zealand national lottery became available online in 2008, allowing players to purchase tickets from their home computers.
 * Age Restrictions: Instant Kiwi scratch cards can only be played by individuals aged 18 or older.
 * Jackpot Games: Powerball is a jackpot game with a maximum prize of $50 million, after which a Must Be Won draw is held if the jackpot is not claimed.
+
+The main lottery - or **Lotto** as it is known - is a 6/40 game - 6 balls drawn, out of a set of 40 balls in total. There is in addition a **Bonus Ball** drawn from the 6/40, which adds better odds for a win. 
+The main jackpot is NS$1 Million, with smaller prizes paid out on the basis of a set of correct numbers drawn, from 1 - 5 of the total, and additional prizes for the same set and including the 7th Bonus Ball.
+In addition, the **Powerball** is a 1/10 game - selection of a Powerball with correct numbers also increases the prize won. The jaclpot figure minimum is NZ$4 Million, though this increases cumulatively week by week if unclaimed.
+The maximum permitted by law is NZ$40 Million, at which point lower-order tickets will have the jackpot distributed.
 
 New Zealand has a population of 5 Million people as of the last Census. Of that group, 80% are of working age, or about 4 Million more or less.
 The stated probability of winning the Lottery is stated as 1 in 40 million, or a 1 in 10 out of the entire population winning NZ$1 Million on a given draw.
@@ -91,3 +97,9 @@ The movement of ball-to-ball in position week-to-week is a very steep gradient f
 As a result, raw data must be processed.
 
 The tools of this Repository are designed to allow that data to be interpreted, both by human oversight as well as by numerical methods, to determine if they fall within the bounds of NN interpretation, training - and step-forward forecasting.
+
+These include
+
+* Heatmap (2-dimensional analysis)
+* Hyper-Tesseract Heatmap (6 dimensional analysis)
+* PCA-GMM (Seperation of data into discernible groups)
