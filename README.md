@@ -64,5 +64,15 @@ Today, a desktop PC has the capacity to perform numerical computations with soph
 We also have today the tools to evaluate whether a dataset is worth putting through an ANN, to save time in terms of committing resources to attempting to forecasting next steps.
 
 ## The Test System - the New Zealand National Lottery
-The NZ National Lottery is an almost ideal test system to distinguish a random from nearly-random system, for statistical evaluations
+The NZ National Lottery is an almost ideal test system to distinguish a random from nearly-random system, for statistical evaluations by Statistical tools in Python, and Neural Networks
+
+Lotto New Zealand, formerly known as the New Zealand Lotteries Commission, is the entity responsible for operating the national lottery in New Zealand. It was established in 1987 and operates under the Gambling Act 2003. Here are some key points about the New Zealand National Lottery:
+
+* Establishment: The New Zealand National Lottery was established in 1987, replacing the original national lotteries, the Art Union and Golden Kiwi.
+* Games Offered: Lotto New Zealand offers several games including Lotto (which includes Powerball and Strike), Keno, Bullseye, and Instant Kiwi scratch card games.
+* Regulation: The lottery is regulated by the New Zealand government through an autonomous Crown entity.
+* Profits Distribution: Profits from the lottery are distributed by the New Zealand Lottery Grants Board to charities and community organizations.
+* Online Availability: The New Zealand national lottery became available online in 2008, allowing players to purchase tickets from their home computers.
+* Age Restrictions: Instant Kiwi scratch cards can only be played by individuals aged 18 or older.
+* Jackpot Games: Powerball is a jackpot game with a maximum prize of $50 million, after which a Must Be Won draw is held if the jackpot is not claimed.
 
