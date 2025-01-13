@@ -43,7 +43,9 @@ Even after being educated in both the sciences and mathematics, human beings oft
 * Someone _always_ wins a big prize
 * Despite the fact that any combination of lottery balls is theoretically as good as another, people notice _patterns_
   * These patterns are often repetitive for a single given ball, week to week - which while encouraging fallacy, is also an emergent property - _perhaps_.
-  * Observation over the centuries has given rise to the _hot, cold and middle warmth_ (or occurence rate) of a given set of balls.
+  * Observation over the centuries has given rise to the concept _hot, cold and middle warmth_ (or occurence rate) of a given set of balls.
+  * The same observations also see change occurring over extended periods e.g. a ball that was 'hot' for 14 weeks may be 'middle' or 'cold' for the 14 weeks later.
+  * Breakdown of binary event time ('0' for no draw and '1' for drawn) often show characteristics of 2-dimensional curves, which can be evaluated by eye in terms of a suggested forecast, though with the constant caveat of _randomness_ not permitting any accuracy, in line with the experimental results of the Retrospective Fallacy.
 * There exist strategies known as _Martingales_, _Wheeling_ and _Minimum-set Combinatorics_ (in contemporary parlance) - however, financially their implementation is not minimal, reducing their attraction to the average player.
 
 The pattern-recognition occurring in the Human mind needs to be given some consideration - the human brain consists of _billions of neurons_, with _trillions_ of axonal and dentritic connections. This remains far more complex than any computer or AI software system yet extant, including the AI systems in existence in 2025, the year of writing.
