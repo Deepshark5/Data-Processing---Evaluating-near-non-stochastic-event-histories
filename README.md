@@ -78,3 +78,16 @@ Lotto New Zealand, formerly known as the New Zealand Lotteries Commission, is th
 * Age Restrictions: Instant Kiwi scratch cards can only be played by individuals aged 18 or older.
 * Jackpot Games: Powerball is a jackpot game with a maximum prize of $50 million, after which a Must Be Won draw is held if the jackpot is not claimed.
 
+New Zealand has a population of 5 Million people as of the last Census. Of that group, 80% are of working age, or about 4 Million more or less.
+The stated probability of winning the Lottery is stated as 1 in 40 million, or a 1 in 10 out of the entire population winning NZ$1 Million on a given draw.
+The Powerball added to the lottery decreases that probability to 1 in 400 million, or a 1 in 100 out of the entire population winning NZ$5 Million on a given draw.
+
+Despite these very long odds, and this does need to be stated - _someone almost always wins a big prize every week, since 1987._
+
+These sets of results, and despite the odds, give strong credence to the concept that the New Zealand Lottery possesses pattern-forming characteristics which are both random and yet sufficiently persistent draw-to-draw to allow the human mind to occasionally be successful - or be 'lucky' - or both - in giving rise to a combination selection based only on past data in order to win a major prize.
+
+## Pre-processing and Neural Networks
+The movement of ball-to-ball in position week-to-week is a very steep gradient for a Neural Network to use as a means of forecast with existing architectures - even with transformers.
+As a result, raw data must be processed.
+
+The tools of this Repository are designed to allow that data to be interpreted, both by human oversight as well as by numerical methods, to determine if they fall within the bounds of NN interpretation, training - and step-forward forecasting.
