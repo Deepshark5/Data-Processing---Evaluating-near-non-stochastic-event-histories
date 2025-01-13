@@ -47,10 +47,10 @@ Even after being educated in both the sciences and mathematics, human beings oft
 
 The pattern-recognition occurring in the Human mind needs to be given some consideration - the human brain consists of _billions of neurons_, with _trillions_ of axonal and dentritic connections. This remains far more complex than any computer or AI software system yet extant, including the AI systems in existence in 2025, the year of writing.
 
-While it is true that the human mind cannot realistically forecast the next Lottery draw, it is important to note that patterns are being recognised, and acted on. Given a large enough population, and the chances of winnig a large Lottery prize become less remote, given enough time.
+While it is true that the human mind cannot realistically forecast the next Lottery draw, it is important to note that patterns are being recognised, and acted on. Given a large enough population, and the chances of winning a large Lottery prize become less remote, given enough time. If realistically matched to the probabilities involved - sometimes every single week, keeping player interest high.
 
 When the test system is discussed, we will return to that.
 
 ## Emergent Neural Network forecasting - Artificial Neural Networks
-First programmed on smaller PC's in the 1990's when the 'Mega Threshold' was exceeded for the first time even for cheaper commercial personal computers (Units of measure - Megabyte, MegaHertz system clock, Megabit networking) , the **Artificial Neural Network** became an important 
+First programmed on smaller PC's in the 1990's when the 'Mega Threshold' was exceeded for the first time even for cheaper commercial personal computers (Units of measure - Megabyte, MegaHertz system clock, Megabit networking) , the **Artificial Neural Network** became an important tool in the sciences. However, the inherent problem at that time was data and computation - particularly in terms of ANN computational units and their parameters which were not well developed then, and data throughput - which was a full order of magnitude lower than 
 
