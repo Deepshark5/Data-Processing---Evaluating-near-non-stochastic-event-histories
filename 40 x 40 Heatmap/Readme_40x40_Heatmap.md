@@ -24,9 +24,6 @@ When discussing contrasts in heatmaps, particularly the comparison between rando
 ![image](https://github.com/Deepshark5/Data-Processing-1---Heatmaps-for-forecast-evaluation/blob/5daa44e0300dfa633f1aa0b6435aadf9ef50e36c/Images/Heatmap_Clusters.jpg)
   
 * ClusterExperiment Package: The clusterExperiment package in R provides tools for comparing different clustering methods, including the ability to plot heatmaps that show significant genes per contrast. The plotContrastHeatmap function within this package can be used to visualize contrasts in gene expression data, where the clustering method (random or hierarchical) can influence how the data is grouped and presented.
-* Interactive Clustered Heat Map Builder: This tool allows users to generate heatmaps with different clustering options, including hierarchical clustering. It provides a user-friendly interface for transforming and filtering data, making it accessible to those without extensive bioinformatics or statistical expertise.
-* Color Contrast in Heatmaps: When creating heatmaps, choosing the right color palette is crucial. Sequential color scales are effective for showing raw data values (all non-negative), while diverging scales are better for standardized data that includes both up-regulated and down-regulated values. Ensuring color contrast is also important for accessibility, especially for users with color vision deficiencies.
 
-In summary, the choice between random and non-random clustering in heatmaps depends on the specific goals of the analysis. Non-random clustering methods, such as hierarchical clustering, are generally preferred for revealing meaningful patterns in the data, while random clustering can be useful for exploratory purposes.
+The choice between random and non-random clustering in heatmaps depends on the specific goals of the analysis. Non-random clustering methods, such as hierarchical clustering, are generally preferred for revealing meaningful patterns in the data, while random clustering can be useful for exploratory purposes.
 
-A Random 
