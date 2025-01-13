@@ -37,7 +37,7 @@ This fallacy is of course quickly proven - there is an almost absolute (better t
 This relates to the Gamblers Fallacy in terms of the belief that 'Past Events allow the future to be forecast' and here we get to the modern point of view with regard to Neural Networks - the hope that their dispassionate mathematical structures may detect a pattern which the human mind cannot. Unfortunately, to date, there is no system with this capacity - or at least, there is no system able to avoid this fallacy _yet_
 
 ## Student's T-test
-Student's t-test is 
+The Student’s t-test is a statistical hypothesis test used to determine if the difference between the means of two groups is statistically significant. It is particularly useful for small sample sizes, typically less than 30 observations. There are different types of t-tests, including the one-sample t-test, which compares the mean of a single group to a known value, and the two-sample t-test, which compares the means of two independent groups. Additionally, there is the paired t-test, which compares the means of the same group measured at two different times or under two different conditions. The test assumes that the data are normally distributed and that the variances are equal, though there are modifications for when these assumptions are not met.
 
 ## Emergent Neural Network forecasting - the Human Brain
 
