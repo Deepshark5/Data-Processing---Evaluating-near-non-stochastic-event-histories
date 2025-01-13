@@ -65,6 +65,17 @@ Today, a desktop PC has the capacity to perform numerical computations with soph
 
 We also have today the tools to evaluate whether a dataset is worth putting through an ANN, to save time in terms of committing resources to attempting to forecasting next steps.
 
+## Is it really random ?
+
+One of the primary stumbling blocks to even consider using a Neural Network in analysing a Lottery data in terms of forecasting probabilities come from the data itself, and the laws of probability as stated within the Gamblers Fallacies which are a means of stating these realities.
+
+* Past Events do not equal the capacity to forecast a Future Event : This is very definitely and objectively true, as discussed earlier
+* Multi-dimensional Complexity : The probabilities involved are factorial, which are multiplications upon multiplications - and thus the Statistical Universe is exceedingly large for a Lottery.
+
+_However...._
+
+Observations over centuries of Lotteries indicate that they are not fully random, as dicussed above for Hu
+
 ## The Test System - the New Zealand National Lottery
 The NZ National Lottery is an almost ideal test system to distinguish a random from nearly-random system, for statistical evaluations by Statistical tools in Python, and Neural Networks.
 If there are any residual patterns, a Neural Network has the best means of detecting them dispassionately and without an emotional content.
