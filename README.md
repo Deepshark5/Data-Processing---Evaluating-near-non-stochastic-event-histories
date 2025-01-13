@@ -29,12 +29,15 @@ It would be very fair to say that the mathematical sciences of <b>statistics</b>
 <b>The Gambler's Fallacy , or the Monte Carlo Fallacy</b>
 This is the most common - its the belief that if an event has occurred <i>less frequently</i> then in the future it is 'likely' to <i>occur more frequently</i>. The reason for the fallacy comes from the inability to distinguish <i>chance</i> from <i>probability</i>. The good example is a a cubic die (or dice if a pair), which has six sides with numbers of 1 to 6 - a common statistical time since before the reign of Julius Caesar, and so millenia old. 
 
-A perfectly weighted die has the <i>probability</i> of landing on a value of 1 to 6 for <i>any</i> given throw of the dice, on the assumption that the throws made is the same each time - in terms of force, height, rotation speed, and a set of other physical factors. The **fallacy** (for this system) is the belief that the probability will 'even out' the number returned on throws - so that (for instance) if there are 100 throws played at a Monte Carlo table where the dice have been giving 'snakeyes' (a 1 and a 1) in many sequences, that to 'even things out' over the next set of sequences, a set of 12's (a six and a six) will then fall to return the probability to an even 50:50 distribution of odds and evens. 
+A perfectly weighted die has the <i>probability</i> of landing on a value of 1 to 6 for <i>any</i> given throw of the dice, on the assumption that the throws made is the same each time - in terms of force, height, rotation speed, and a set of other physical factors. The **fallacy** (for this system) is the belief that the probability will 'even out' the number returned on throws - so that (for instance) if there are 100 throws played at a Monte Carlo table where the dice have been giving 'snakeyes' (a 1 and a 1) in many sequences, that to 'even things out' over the next 100 sequences, a set of 12's (a six and a six) will then fall to return the probability to an even 50:50 distribution of odds and evens. 
 
-This fallacy is of course quickly proven - there is an almost absolute (better than 99.9%) probability that this will not take place - not matter one's feelings on the matter. Until the end of play for an evening at the gambling tables, the dice may end up in all sorts of combinations, returning _anywhere_ between 1 and 1 to 6 and 6 - and all combinations in between. Continue to bet on the basis that one 'feels the odds are going to change' is what leads to ruin - there is absolutely no proof, on experiment, to justify this belief.
+This fallacy is of course quickly proven - there is an almost absolute (better than 99.9%) probability that this will _not_ take place - not matter what one's feelings are about it. Until the end of play for an evening at the gambling tables, the dice may end up in all sorts of combinations, returning _anywhere_ between 1 and 1 to 6 and 6 - and all combinations in between, and not once 'evening the odds' of an expected outcome. Continue to bet on the basis that one 'feels the odds are going to change' is what invariably leads to ruin - there is absolutely no proof, on experiment, to justify that belief.
 
 **The Retrospective Gamblers Fallacy**
 This relates to the Gamblers Fallacy in terms of the belief that 'Past Events allow the future to be forecast' and here we get to the modern point of view with regard to Neural Networks - the hope that their dispassionate mathematical structures may detect a pattern which the human mind cannot. Unfortunately, to date, there is no system with this capacity - or at least, there is no system able to avoid this fallacy _yet_
+
+## Student's T-test
+Student's t-test is 
 
 ## Emergent Neural Network forecasting - the Human Brain
 
@@ -44,6 +47,7 @@ Even after being educated in both the sciences and mathematics, human beings oft
 * Despite the fact that any combination of lottery balls is theoretically as good as another, people notice _patterns_
   * These patterns are often repetitive for a single given ball, week to week - which while encouraging fallacy, is also an emergent property - _perhaps_.
   * Observation over the centuries has given rise to the _hot, cold and middle warmth_ (or occurence rate) of a given set of balls.
+* There exist strategies known as _Martingales_, _Wheeling_ and _Minimum-set Combinatorics_ (in contemporary parlance) - however, financially their implementation is not minimal, reducing their attraction to the average player.
 
 The pattern-recognition occurring in the Human mind needs to be given some consideration - the human brain consists of _billions of neurons_, with _trillions_ of axonal and dentritic connections. This remains far more complex than any computer or AI software system yet extant, including the AI systems in existence in 2025, the year of writing.
 
@@ -52,5 +56,16 @@ While it is true that the human mind cannot realistically forecast the next Lott
 When the test system is discussed, we will return to that.
 
 ## Emergent Neural Network forecasting - Artificial Neural Networks
-First programmed on smaller PC's in the 1990's when the 'Mega Threshold' was exceeded for the first time even for cheaper commercial personal computers (Units of measure - Megabyte, MegaHertz system clock, Megabit networking) , the **Artificial Neural Network** became an important tool in the sciences. However, the inherent problem at that time was data and computation - particularly in terms of ANN computational units and their parameters which were not well developed then, and data throughput - which was a full order of magnitude lower than 
+First programmed on smaller PC's in the 1990's when the 'Mega Threshold' was exceeded for the first time even for cheaper commercial personal computers (Units of measure - Megabyte, MegaHertz system clock, Megabit networking) , the **Artificial Neural Network** became an important tool in the sciences. However, the inherent problem at that time was data and computation - particularly in terms of ANN computational units and their parameters which were not well developed then, and data throughput - which was a full order of magnitude lower than the datasets to which these early software ANN's were being applied.
+
+The watershed period was from 2008 - 2018, in what has been termed the 'Giga Revolution' in which computers gained three orders of magnitude in terms of their computational power from the 1990's - Clock speed in GigaHetrz, memory in GigaBytes, and Gigabit networking data speeds. This was also coupled with multi-core computing rising to more than 4 cores per CPU, with the largest today (the AMD EPYC) sporting up to 196 or more CPU units in an asymmetric array. Inexpensive CPU's e.g. the AMD Ryzen 5 , can have 12 to 16 CPU units in an assymetric array - and at clock speeds and data throughput capacity which can put to to shame Supercomputers only 2 generations in the past, in terms of flexibility and computional performance.
+
+This has also been coupled with software libraries able to harness the computational power of the GPU (Gaming Graphics Card) computational power on vector calculations, to be used in scientific computing as well - AMD ROCm and NVidia CUDA libraries are the most commonly deployed, though not the only available.
+
+Today, a desktop PC has the capacity to perform numerical computations with sophisticated ANN libraries and technique - We have LSTM, GRU, BiDirectional, and Attention neural networks, with more complex activation functions than the Sinusoidal TanH function that existed in the 1990's available to every interested programmer.
+
+We also have today the tools to evaluate whether a dataset is worth putting through an ANN, to save time in terms of committing resources to attempting to forecasting next steps.
+
+## The Test System - the New Zealand National Lottery
+The NZ National Lottery is an almost ideal test system to distinguish a random from nearly-random system, for statistical evaluations
 
