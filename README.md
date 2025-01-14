@@ -74,7 +74,7 @@ One of the primary stumbling blocks to even consider using a Neural Network in a
 
 _However...._
 
-Observations over centuries of Lotteries indicate that they are not fully random, as dicussed above for Hu
+Observations over centuries of Lotteries indicate that they are not fully random, as dicussed above for Human NN detection of emergent patters, and the measurable records of shifting 'Hot','Cold' and 'Middle' balls in terms of frequency. This is also coupled with the observation of a lack of combinations occurring e.g. 1,2,34,5,6 - though with the ever present caveat that this is a function of _time_ only.
 
 ## The Test System - the New Zealand National Lottery
 The NZ National Lottery is an almost ideal test system to distinguish a random from nearly-random system, for statistical evaluations by Statistical tools in Python, and Neural Networks.
@@ -91,7 +91,7 @@ Lotto New Zealand, formerly known as the New Zealand Lotteries Commission, is th
 * Jackpot Games: Powerball is a jackpot game with a maximum prize of $50 million, after which a Must Be Won draw is held if the jackpot is not claimed.
 
 The main lottery - or **Lotto** as it is known - is a 6/40 game - 6 balls drawn, out of a set of 40 balls in total. There is in addition a **Bonus Ball** drawn from the 6/40, which adds better odds for a win. 
-The main jackpot is NS$1 Million, with smaller prizes paid out on the basis of a set of correct numbers drawn, from 1 - 5 of the total, and additional prizes for the same set and including the 7th Bonus Ball.
+The main jackpot is NZ$1 Million, with smaller prizes paid out on the basis of a set of correct numbers drawn, from 1 - 5 of the total, and additional prizes for the same set and including the 7th Bonus Ball.
 In addition, the **Powerball** is a 1/10 game - selection of a Powerball with correct numbers also increases the prize won. The jaclpot figure minimum is NZ$4 Million, though this increases cumulatively week by week if unclaimed.
 The maximum permitted by law is NZ$40 Million, at which point lower-order tickets will have the jackpot distributed.
 
